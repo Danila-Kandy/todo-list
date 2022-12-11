@@ -1,0 +1,25 @@
+.container {
+    width: 50%;
+    margin: auto;
+}
+
+.creatingTodo {
+    height: 2em;
+    margin-bottom: 1em;
+}
+
+.creatingTodo input {
+    height: 100%;
+    width: 90%;
+    border: 1px solid #aaa;
+    padding-left: 1em;
+    box-sizing: border-box;
+}
+
+.creatingTodo button {
+    height: 100%;
+    width: 9%;
+    box-sizing: border-box;
+    border: 1px solid greenyellow;
+    background-color: greenyellow;
+}
